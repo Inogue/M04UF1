@@ -8,17 +8,18 @@ Ciberseguridad: Llenguatge de marques
   Gracias a esta etiqueta el lenguaje puede funcionar correctamente. 
   
   En todo archivo **XML** es necesario que haya una etiquieta raiz.
+  
   Existen varios tipos de etiquetas:
   
   * Pares
   * Impares 
   * Booleanas
    
-  **PARES:** Estas etiquetas son las que tienen una etiqueta para abrir y otra para cerrar. _EJEMPLO: ```<name>Eustaquio\</name>```_
+  **PARES:** Estas etiquetas son las que tienen una etiqueta para abrir y otra para cerrar. _EJEMPLO: ```xml <name>Eustaquio\</name>```_
   
-  **IMPARES:** Estas etiquetas solo necesitan una etiqueta que cierre. _EJEMPLO: ```<age years="197" />```_ 
+  **IMPARES:** Estas etiquetas solo necesitan una etiqueta que cierre. _EJEMPLO: ```xml <age years="197" />```_ 
   
-  **BOOLEANAS:** Con esta etiqueta puedes determinar el estado de una variable por defecto, si es true o false. _EJEMPLO: ```<tienelaeso />```_ 
+  **BOOLEANAS:** Con esta etiqueta puedes determinar el estado de una variable por defecto, si es true o false. _EJEMPLO: ```xml <tienelaeso />```_ 
   
   Para que todos los archivos xml sigan una estructura concreta es necesario que haya un archivo que determine dicha estructura. 
   El lenguaje de estas estructuras pueden ser **DTD** o **XSD**.
@@ -26,6 +27,35 @@ Ciberseguridad: Llenguatge de marques
 
 ## **_DTD_**
 Los _apuntes_ de **DTD**
+
+```dtd
+<!ELEMNT character (name, surname, age, race, 
+ class,gender, height,
+ weight, language, tienelaeso?, weapons?)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT surname (#PCDATA)>
+<!ELEMENT age EMPTY>
+<!ELEMENT race (#PCDATA)>
+<!ELEMENT class (#PCDATA)>
+<!ELEMENT gender (#PCDATA)>
+<!ELEMENT height EMPTY>
+<!ELEMENT weight EMPTY>
+<!ELEMENT language (#PCDATA)>
+<!ELEMENT tienelaeso EMPTY>
+<!ELEMNT weapons (weapon*)>
+<!ELEMENT weapon EMPTY>
+
+<!ATTLIST age years CDATA #REQUIRED>
+<!ATTLIST gender abbrev CDATA #REQUIRED>
+<!ATTLIST height cm CDATA #REQUIRED>
+<!ATTLIST weight kg CDATA #REQUIRED>
+<!ATTLIST language abbrev CDATA #REQUIRED>
+<!ATTLIST language prefix CDATA>
+<!ATTLIST id_weapon CDATA #REQUIRED>
+
+```
+Gracias a esto tenemos un estandar para los archivos de characters en XML. 
+
 
 ## **_MarkDown_**
 
