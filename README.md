@@ -13,6 +13,10 @@ Aqui iran los apuntes de **XML**
 ## **_DTD_**
 Los _apuntes_ de **DTD**
 
+## **_MarkDown_**
+
+### Citaciones
+
 > Un gran poder conlleva
 > una gran responsabilidad
 >
@@ -25,6 +29,7 @@ Los _apuntes_ de **DTD**
 
 
 ---
+### Enlaces
 
 Un enlace a la mejor web del mundo
 
@@ -55,3 +60,14 @@ print("A")
 ### Caracteres extendidos
 
 :poop: :alien: :cry: :imp: :banana:
+
+### Estilos de caracteres
+
+__A__
+**A**
+~~A~~
+
+### Tablas
+
+
+
