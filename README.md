@@ -3,7 +3,7 @@ Ciberseguridad: Llenguatge de marques
 
 ## **_XML_**
 
-  En **_XML_** es necesario comenzar agregando <?xml version="1.0" encoding="UTF-8" ?>, esto es una cabecera. 
+  En **_XML_** es necesario comenzar agregando \<?xml version="1.0" encoding="UTF-8" ?>, esto es una cabecera. 
   
   Gracias a esta etiqueta el lenguaje puede funcionar correctamente. 
   
