@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<character id_character="2">
+	<name>Mariana</name>
+	<surname> Rajoy</surname>
+	<age years="1200" />
+	<race>Hada</race>
+	<class>Tank</class>
+	<gender abbrev="F">Female</gender>
+	<height cm="25" />
+	<weight kg="3.5" />
+	<language abbrev="rou">Rumano</language>
+	<tienelaeso />
+	
+</character>

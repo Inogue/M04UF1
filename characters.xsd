@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+ <xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema" version="0.1" xml:lang="es">
+ 
+ <xsd:element name="character">
+	<xsd:element name="name" type="xsd:string" />
+ 
+</xsd:element>
+
+ </xsd:schema>
+ 

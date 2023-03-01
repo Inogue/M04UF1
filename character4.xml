@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<character id_character="4">
+	<name>Messi</name>
+	<surname>Lionel</surname>
+	<age years="50" />
+	<race>Gigante</race>
+	<class>Healer</class>
+	<gender abbrev="N">Non-Binary</gender>
+	<height cm="160" />
+	<weight kg="100" />
+	<language abbrev="euk">Euskera</language>
+	<tienelaeso />
+	
+</character>

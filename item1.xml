@@ -1,0 +1,12 @@
+<character id_character="1">
+<name>Eustaquio</name>
+<surname>Mendoza</surname>
+<age years="197"/>
+<race>Enano</race>
+<class>Artificiero</class>
+<gender abbrev="N">Non-Binary</gender>
+<height cm="130"/>
+<weight kg="80"/>
+<language abbrev="prt">Portugues</language>
+<tienelaeso/>
+</character>

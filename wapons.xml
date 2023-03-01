@@ -1,0 +1,33 @@
+<weapons>
+<weapons>
+<weapon>Mama's Chancla</weapon>
+<type>Daga</type>
+<pdamage damage="99"/>
+<pdefence damage="99"/>
+<level>1</level>
+<level_min>5<level_min/>
+<uses>1</level>
+</weapon>
+
+<weapons>
+<weapon>Merce's Puñalote</weapon>
+<type>Puñal</type>
+<pdamage damage="80"/>
+<pdefence damage="5"/>
+<level>1</level>
+<level_min>51level_min/>
+<uses>100</uses>
+</weapon>
+
+<weapons>
+<weapon>Bazooka Worms</weapon>
+<type>Proyectil</type>
+<pdamage damage="90"/>
+<pdefence damage="20"/>
+<level>10</level>
+<level_min>10<level_min/>
+<uses>100</level>
+</weapon>
+
+
+</weapons>
