@@ -3,7 +3,7 @@ Ciberseguridad: Llenguatge de marques
 
 ## **_XML_**
 
-  En **_XML_** es necesario comenzar agregando \<?xml version="1.0" encoding="UTF-8" ?>, esto es una cabecera. 
+  En **_XML_** es necesario comenzar agregando ```XML \<?xml version="1.0" encoding="UTF-8" ?>```, esto es una cabecera. 
   
   Gracias a esta etiqueta el lenguaje puede funcionar correctamente. 
   
@@ -15,11 +15,11 @@ Ciberseguridad: Llenguatge de marques
   * Impares 
   * Booleanas
    
-  **PARES:** Estas etiquetas son las que tienen una etiqueta para abrir y otra para cerrar. _EJEMPLO:_```<name>Eustaquio\</name>```
+  **PARES:** Estas etiquetas son las que tienen una etiqueta para abrir y otra para cerrar. _EJEMPLO:_```XML <name>Eustaquio\</name>```
   
-  **IMPARES:** Estas etiquetas solo necesitan una etiqueta que cierre. _EJEMPLO:_ ```<age years="197" />```
+  **IMPARES:** Estas etiquetas solo necesitan una etiqueta que cierre. _EJEMPLO:_ ```XML <age years="197" />```
   
-  **BOOLEANAS:** Con esta etiqueta puedes determinar el estado de una variable por defecto, si es true o false. _EJEMPLO:_ ```<tienelaeso />``` 
+  **BOOLEANAS:** Con esta etiqueta puedes determinar el estado de una variable por defecto, si es true o false. _EJEMPLO:_ ```XML <tienelaeso />``` 
   
   Para que todos los archivos xml sigan una estructura concreta es necesario que haya un archivo que determine dicha estructura. 
   El lenguaje de estas estructuras pueden ser **DTD** o **XSD**.
