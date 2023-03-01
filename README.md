@@ -2,18 +2,38 @@
 Ciberseguridad: Llenguatge de marques
 
 ## **_XML_**
-Aqui iran los apuntes de **XML**
 
+  En **_xml_** es necesario comenzar agregando <?xml version="1.0" encoding="UTF-8" ?>, esto es una cabecera. 
+  
+  Gracias a esta etiqueta el lenguaje puede funcionar correctamente. 
+  
+  En todo archivo **xml** es necesario que haya una etiquieta raiz.
+  Existen varios tipos de etiquetas:
+  
+  * Pares
+  * Impares 
+  * Booleanas
+   
+  **PARES:** Estas etiquetas son las que tienen una etiqueta para abrir y otra para cerrar. _EJEMPLO: <name>Eustaquio</name>_
+  **IMPARES:** Estas etiquetas solo necesitan una etiqueta que cierre. _EJEMPLO: <age years="197" />_
+  **BOOLEANAS:** Con esta etiqueta puedes determinar el estado de una variable por defecto, si es true o false. _EJEMPLO: <tienelaeso />_
+  
+  Para que todos los archivos xml sigan una estructura concreta es necesario que haya un archivo que determine dicha estructura. 
+  El lenguaje de estas estructuras pueden ser **DTD** o **XSD**.
+ 
+
+## **_DTD_**
+Los _apuntes_ de **DTD**
+
+## **_MarkDown_**
+
+### Listas
 * uno
 * dos
 	* sub dos
 		* sub sub normal
 * tres
 
-## **_DTD_**
-Los _apuntes_ de **DTD**
-
-## **_MarkDown_**
 
 ### Citaciones
 
