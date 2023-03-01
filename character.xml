@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE character SYSTEM "character.dtd">
 <character id_character="1">
 	<name>Eustaquio</name>
 	<surname>Mendoza</surname>
@@ -10,5 +11,11 @@
 	<weight kg="80" />
 	<language abbrev="prt">Portugues</language>
 	<tienelaeso />
-	
+	<weapons>
+		<weapon id_weapon="1"/>
+		<weapon id_weapon="3"/>
+		<weapon id_weapon="4"/>
+		<weapon id_weapon="7"/>
+	</weapons>
+		
 </character>
