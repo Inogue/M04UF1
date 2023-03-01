@@ -54,4 +54,4 @@ print("A")
 
 ### Caracteres extendidos
 
-:poop: :alien: :cry: :imp: :bannana:
+:poop: :alien: :cry: :imp: :banana:
