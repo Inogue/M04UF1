@@ -19,4 +19,5 @@
 <!ATTLIST height cm CDATA #REQUIRED>
 <!ATTLIST weight kg CDATA #REQUIRED>
 <!ATTLIST language abbrev CDATA #REQUIRED>
+<!ATTLIST language prefix CDATA>
 <!ATTLIST id_weapon CDATA #REQUIRED>

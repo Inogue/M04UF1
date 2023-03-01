@@ -9,7 +9,7 @@
 	<gender abbrev="N">Non-Binary</gender>
 	<height cm="130" />
 	<weight kg="80" />
-	<language abbrev="prt">Portugues</language>
+	<language abbrev="prt" prefix="+32">Portugues</language>
 	<tienelaeso />
 	<weapons>
 		<weapon id_weapon="1"/>
