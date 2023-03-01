@@ -6,6 +6,8 @@ Aqui iran los apuntes de **XML**
 
 * uno
 * dos
+	* sub dos
+		* sub sub normal
 * tres
 
 ## **_DTD_**
@@ -18,4 +20,5 @@ Los _apuntes_ de **DTD**
 
 > Esto es citar
 >> Esto es citar por dos
+>
 > Ya no se cita
