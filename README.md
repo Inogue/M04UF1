@@ -51,3 +51,7 @@ print("A")
 
 - [ ] Primera cosa
 - [X] COSA
+
+### Caracteres extendidos
+
+:poop: :alien: :cry: :imp: :bannana:
