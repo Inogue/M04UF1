@@ -36,3 +36,18 @@ Y [ESTO](https://enti.cat) es otro enlace.
 ### Imagen incrustada
 
 ![African Lore](https://i.ytimg.com/vi/z-EU53ib2M4/maxresdefault.jpg)
+
+### EJEMPLO DE CODIGO RESALTADO
+
+```kotlin
+fun main(args: Array<String>){
+print("A")
+}
+
+
+---
+
+### Lista de tareas
+
+- [ ] Primera cosa
+- [X] COSA
