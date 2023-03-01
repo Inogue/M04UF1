@@ -22,3 +22,17 @@ Los _apuntes_ de **DTD**
 >> Esto es citar por dos
 >
 > Ya no se cita
+
+
+---
+
+Un enlace a la mejor web del mundo
+
+[CondorChem](https://condorchem.com)
+
+Y [ESTO](https://enti.cat) es otro enlace.
+
+
+### Imagen incrustada
+
+![African Lore](https://i.ytimg.com/vi/z-EU53ib2M4/maxresdefault.jpg)
