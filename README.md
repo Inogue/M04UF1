@@ -15,14 +15,11 @@ Ciberseguridad: Llenguatge de marques
   * Impares 
   * Booleanas
    
-  **PARES:** Estas etiquetas son las que tienen una etiqueta para abrir y otra para cerrar. _EJEMPLO: ```xml 
-  <name>Eustaquio\</name>```_
+  **PARES:** Estas etiquetas son las que tienen una etiqueta para abrir y otra para cerrar. _EJEMPLO:_```xml <name>Eustaquio\</name>```
   
-  **IMPARES:** Estas etiquetas solo necesitan una etiqueta que cierre. _EJEMPLO: ```xml 
-  <age years="197" />```_ 
+  **IMPARES:** Estas etiquetas solo necesitan una etiqueta que cierre. _EJEMPLO:_ ```xml <age years="197" />```
   
-  **BOOLEANAS:** Con esta etiqueta puedes determinar el estado de una variable por defecto, si es true o false. _EJEMPLO: ```xml 
-  <tienelaeso />```_ 
+  **BOOLEANAS:** Con esta etiqueta puedes determinar el estado de una variable por defecto, si es true o false. _EJEMPLO:_ ```xml <tienelaeso />``` 
   
   Para que todos los archivos xml sigan una estructura concreta es necesario que haya un archivo que determine dicha estructura. 
   El lenguaje de estas estructuras pueden ser **DTD** o **XSD**.
