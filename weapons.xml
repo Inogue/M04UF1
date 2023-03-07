@@ -4,7 +4,7 @@
 <weapon_name>Mama's Chancla</weapon_name>
 <type>Daga</type>
 <pdamage damage="99"/>
-<pdefence damage="99"/>
+<pdefence defence="99"/>
 <level>1</level>
 <level_min>5</level_min>
 <uses>1</uses>

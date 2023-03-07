@@ -1,0 +1,8 @@
+<!ELEMNT item (item_name, weight, cost, 
+consumable?)>
+<!ELEMENT item_name(#PCDATA)>
+<!ELEMENT weight EMPTY>
+<!ELEMENT cost (#PCDATA)>
+<!ELEMENT consumable EMPTY>
+
+<!ATTLIST weight kg CDATA #REQUIRED>
