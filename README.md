@@ -54,8 +54,10 @@ Los _apuntes_ de **DTD**
 <!ATTLIST id_weapon CDATA #REQUIRED>
 
 ```
-Gracias a esto tenemos un estandar para los archivos de characters en XML. 
+Gracias a esto tenemos un estandar para los archivos de characters en **XML**. 
 
+Los archivos dtd son principalmente las estructuras de archivos **XML**, como la cantidad de veces qeu se repite una cosa o su contenido mismo. 
+Gracias a estas estructuras podemos comprobar si un archivo que nos han mandado sigue la estructura predefinida del resto de archivis **XML**. 
 
 ## **_MarkDown_**
 

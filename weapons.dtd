@@ -1,0 +1,11 @@
+<!ELEMNT weapon (weapon_name, type, pdamage, pdefence, level, level_min, uses)>
+<!ELEMENT weapon_name(#PCDATA)>
+<!ELEMENT type(#PCDATA)>
+<!ELEMENT pdamage EMPTY>
+<!ELEMENT pdefence EMPTY>
+<!ELEMENT level (#PCDATA)>
+<!ELEMENT level_min (#PCDATA)>
+<!ELEMENT uses (#PCDATA)>
+
+<!ATTLIST pdamage damage CDATA #REQUIRED>
+<!ATTLIST pdefence defence CDATA #REQUIRED>
