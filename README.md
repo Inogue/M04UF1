@@ -36,9 +36,9 @@ Hay dos tipos de texto, en **bloque** o en **linea**. Los elementos en linea han
 Los parrafos **\<p>\** es texto en linea. Las listas **\<li\>** es texto en bloque. 
 **Ul** es unordered list. Si ponemos **ol** de ordened list nos generara una lista ordenada.
 La etiqueta **\<em\>** es una etiqueta en linea, en concreto en cursiva. 
-Las **a** (address) necesitan si o si un enlace para redireccionarlo, el atributo es **href**. `<a href='link'>` link `</a>`
+Las **a** (address) necesitan si o si un enlace para redireccionarlo, el atributo es **href**. \<a href='link'>\ link \</a>\
 **\<strong\>** Pone en negrita el texto. 
-**\<img  /\>** Se cierra de manera impar. El atributo es src. `<img src='imagen'/>`
+**\<img  /\>** Se cierra de manera impar. El atributo es src. \<img src='imagen'/>\
 **\<header\>** Es una etiqueta **semantica** pura. Esta etiqueta ayuda a determinar luego los estilos con css. 
 **\<nav\>** Es la etiqueta de navegacion. Esta etiqueta sirve para moverte entre links.
 **\<main\>** Es el contenido principal. 
