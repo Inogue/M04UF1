@@ -23,7 +23,23 @@ Ciberseguridad: Llenguatge de marques
   
   Para que todos los archivos xml sigan una estructura concreta es necesario que haya un archivo que determine dicha estructura. 
   El lenguaje de estas estructuras pueden ser **DTD** o **XSD**.
- 
+
+## **_HTML_** 
+
+<!DOCTYPE html> Es la cabecera con la que empieza todo archivo **HTML**.
+**HTML** es un derivado de xml. 
+Las etiquetas que son hermanas van al mismo nivel.
+La etiqueta de **head** determina como se vera la pagina web. 
+La **semantica** es lo que es y lo que significa la etiqueta o texto.
+Hay dos tipos de texto, en **bloque** o en **linea**. Los elementos en linea han de ir si o si en elementos en bloque, no al reves. 
+Los parrafos **<p>** es texto en linea. Las listas **<li>**es texto en bloque. 
+**Ul** es unordered list. Si ponemos **ol** de ordened list nos generara una lista ordenada.
+La etiqueta **<em>** es una etiqueta en linea, en concreto en cursiva. 
+Las **a** (address) necesitan si o si un enlace para reedireccionarlo, el atributo es **href**. <a href='link'> link </a>
+**<strong>** Pone en negrita el texto. 
+**<img  />** Se cierra de manera impar. El atributo es src. <img src='imagen'/>
+**<header>** Es una etiqueta **semantica** pura. Esta etiqueta ayuda a determinar luego los estilos con css. 
+**<nav>** Es la etiqueta de navegacion.
 
 ## **_DTD_**
 Los _apuntes_ de **DTD**
