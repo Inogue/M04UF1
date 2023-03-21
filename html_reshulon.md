@@ -9,3 +9,7 @@ Usamos CSS para crear el estilo de la pagina web, este estilo sera lo que visual
 -¿Para qué usamos Javascript?
 
 JavaScript lo usamos para hacer toda la parte logica de la pagina web. Cosas como el calculo, funciones y demas se hace con JavaScript.
+
+[![web n1](pagina1.png)](https://css-tricks.com/)
+[![web n2](pagina2.png)](https://www.inthehiddencity.com/london/the-hunt-for-the-cheshire-cat)
+[![web n3](pagina3.png)](https://www.wizardingworld.com/)
