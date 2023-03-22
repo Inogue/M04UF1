@@ -1,11 +1,9 @@
 <!DOCTYPE html>
 <script>
-	function generarNumero() {
-		let numeros = document.querySelectorAll("#numero");
-		let numAleatorio = Math.floor(Math.random() * numeros.length);
-		let numero = Math.floor(Math.random() * 100) + 1; 
-			numeros[numAleatorio].innerHTML = numero;
-	}
+	function getRandomInt(max) {
+  let numero = Math.floor(Math.random() * max);
+return numero;
+}
 	</script>
 <html>
 <head>
@@ -28,14 +26,18 @@
 	</nav>
 </div>
 		</div>
+	<form>
 	<div class="site-content">
 	<main>
+
 	<div class="card">
 	<div class="card-body">
-		<input type="button" value="Click" onClick="generarNumero();" class="wp-block-button btn btn-web btn-primary" target="" rel="noopener"/>
+		<input type="button" value="Click" onClick="getRandomInt(100);" class="wp-block-button btn btn-web btn-primary" target="" rel="noopener"/>
 		</div>
-		
+		</div>
 	</div>
+	<p id="getRandomInt(100)"><p/>
+	</form>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fwexxSVFrdo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>	
 	<h2>Alumno en <abbr title="Escola de Noves Tecnologies Interactives">ENTI</abbr></h2>
 		

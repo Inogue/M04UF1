@@ -45,6 +45,7 @@ Las **a** (address) necesitan si o si un enlace para redireccionarlo, el atribut
 **\<footer\>** Informacion de pie de pagina. 
 
 
+
 ## **_DTD_**
 Los _apuntes_ de **DTD**
 
